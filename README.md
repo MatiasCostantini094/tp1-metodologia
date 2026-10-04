@@ -1,2 +1,2 @@
 # tp1-metodologia
-Punto2- Configuracionde Trazabilidad
+Punto2- Configuracion de Trazabilidad
