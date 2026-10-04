@@ -1,3 +1,10 @@
+---
+name: Reporte de Incidencia
+about: Plantilla para reportar un problema o fallo en el sistema
+title: ''
+labels: bug
+assignees: ''
+---
 ## Título
 <!-- Proporciona un título breve, claro y descriptivo del problema o tarea. -->
 
